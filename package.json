@@ -1,0 +1,11 @@
+{
+  "name": "jest-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "methods.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
